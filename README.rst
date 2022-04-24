@@ -2,7 +2,9 @@
 
 ### led4 gpiod 8
 
-```
+
+```sh 
+
 / {
        leds {
 		compatible = "gpio-leds";
@@ -20,3 +22,4 @@
 };
 
 ```
+
