@@ -8,7 +8,7 @@
 Placa stm32f411e led4 gpiod 8 | esp32 gpio0 2
 
 Estes exemplo foi testado com `stm32f411e` e  `esp32`
-Placa pata teste futuro `stm32f103`.
+Placa para teste futuro `stm32f103`.
 
 
 ```sh 
